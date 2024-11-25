@@ -5,7 +5,7 @@ Recreation of the Windows 95 Operating System built with Vue 3 JS.
 
 
 ## Demo
-[Live]([#](https://vue-95.vercel.app/))
+[Live](https://vue-95.vercel.app/)
 
 
 ## Screenshots
